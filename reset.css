@@ -12,7 +12,7 @@
 }
 
 html {
-  color-scheme: dark light; /* 默认跟随系统深色/浅色，但我们的样式会覆盖 */
+  color-scheme: dark light; 
 }
 
 body {
@@ -59,19 +59,19 @@ body {
 }
 
 header {
-  margin-bottom: 1rem;        /* 原为 2rem */
+  margin-bottom: 2rem;        
   border-bottom: 1px solid #ccc;
   padding-bottom: 0.5rem;
 }
 
 h1 {
   font-size: 2rem;
-  font-weight: normal;
+  font-weight: bold;
   margin-bottom: 0.3rem;
 }
 
 .qa {
-  margin-bottom: 1.2rem;       /* 原为 2rem */
+  margin-bottom: 2rem;       
 }
 
 .q {
@@ -88,7 +88,7 @@ h1 {
 }
 
 footer {
-  margin-top: 2rem;            /* 原为 3rem */
+  margin-top: 2rem;           
   font-size: 0.85rem;
   color: #666;
   text-align: center;
