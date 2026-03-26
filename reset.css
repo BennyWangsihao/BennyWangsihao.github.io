@@ -95,3 +95,15 @@ footer {
   border-top: 1px solid #eee;
   padding-top: 1rem;
 }
+
+<!--My primary objective when writing this CSS was to make the reflection page readable, clear, and aesthetically pleasing. 
+  I used a line-height of 1.6 so that lengthy paragraphs wouldn't seem crowded and set the body font to Arial for readability. 
+  To draw emphasis to the questions and answers, I centered the material and set its width to 900 pixels.
+
+  I separated the header from the main text by adding a bottom border and some spacing, and I made the primary title (h1) bold and larger to create hierarchy. 
+
+  To prevent the material from becoming packed, a margin is placed between each pair of questions and answers (.qa). 
+  To make questions (.q) stand out, they are bolded and slightly darker. Answers (.a) feature a left-colored border and a light gray background to help with scanning.
+
+  Lastly, a top border separates the footer's smaller, more subdued language from the content. 
+  In general, I wanted the design to be straightforward, polished, and simple to read, with a focus on structure and clarity-->
